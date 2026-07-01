@@ -1,5 +1,4 @@
 import CalendlyPopup from "@/components/CalendlyPopup";
-import { ArrowRight } from "lucide-react";
 
 export function HeroSection() {
   return (

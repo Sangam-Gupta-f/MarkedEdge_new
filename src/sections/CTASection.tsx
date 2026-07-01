@@ -1,4 +1,3 @@
-import { ArrowRight } from "lucide-react";
 import { ScrollReveal } from "../components/ScrollReveal";
 import CalendlyPopup from "@/components/CalendlyPopup";
 
