@@ -1,4 +1,12 @@
+import { useEffect } from "react";
+
 export default function ThankYouPage() {
+  useEffect(() => {
+    if (window.fbq) {
+      window.fbq("track", "Schedule");
+    }
+  }, []);
+
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-black text-white px-6">
       <h1 className="text-5xl font-bold text-lime-400">Thank You!</h1>
