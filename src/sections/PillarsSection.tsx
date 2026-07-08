@@ -1,23 +1,23 @@
-import { ScrollReveal } from '../components/ScrollReveal';
+import { ScrollReveal } from "../components/ScrollReveal";
 
 const pillars = [
   {
-    number: '01',
-    title: 'Predictable Inbound',
+    number: "01",
+    title: "Predictable Inbound",
     description:
-      'A strategy that brings the right clients to you — consistently — without relying on word of mouth.',
+      "A strategy that brings the right clients to you — consistently — without relying on word of mouth.",
   },
   {
-    number: '02',
-    title: 'Already Proven',
+    number: "02",
+    title: "Already Proven",
     description:
       "This isn't a new experiment. It's a working playbook, currently generating results for existing Interior Clients.",
   },
   {
-    number: '03',
-    title: 'Zero Risk',
+    number: "03",
+    title: "Zero Risk",
     description:
-      "180 days. Results guaranteed. If we don't deliver, we keep working — at no charge — until you do.",
+      "120 days. Results guaranteed. If we don't deliver, we keep working — at no charge — until you do.",
   },
 ];
 

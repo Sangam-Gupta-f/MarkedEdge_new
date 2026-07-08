@@ -1,4 +1,4 @@
-import { ScrollReveal } from '../components/ScrollReveal';
+import { ScrollReveal } from "../components/ScrollReveal";
 
 export function CommitmentSection() {
   return (
@@ -7,7 +7,8 @@ export function CommitmentSection() {
       <div
         className="absolute inset-0 pointer-events-none"
         style={{
-          background: 'radial-gradient(ellipse at center, rgba(200, 241, 124, 0.06) 0%, transparent 60%)',
+          background:
+            "radial-gradient(ellipse at center, rgba(200, 241, 124, 0.06) 0%, transparent 60%)",
         }}
       />
 
@@ -21,7 +22,9 @@ export function CommitmentSection() {
         </ScrollReveal>
         <ScrollReveal delay={150}>
           <p className="text-[#a1a1aa] text-lg leading-relaxed">
-            We only win when you win. That's why we've built in a hard guarantee — 180 days to a predictable client acquisition setup, or we work for free until we get you there. No fine print. No exceptions.
+            We only win when you win. That's why we've built in a hard guarantee
+            — 120 days to a predictable client acquisition setup, or we work for
+            free until we get you there. No fine print. No exceptions.
           </p>
         </ScrollReveal>
       </div>

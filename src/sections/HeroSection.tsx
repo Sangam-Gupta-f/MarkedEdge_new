@@ -28,7 +28,7 @@ export function HeroSection() {
         {/* Guarantee Badge */}
         <div className="inline-flex items-center gap-2 border border-[#c8f17c]/30 rounded-full px-4 py-2 mb-8 opacity-0 animate-fade-in-up animation-delay-300">
           <span className="text-[#c8f17c] text-sm font-medium">
-            180-Day Guarantee: Results or we work for free until you get there.
+            120-Day Guarantee: Results or we work for free until you get there.
           </span>
         </div>
 
@@ -56,7 +56,7 @@ export function HeroSection() {
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-12 opacity-0 animate-fade-in-up animation-delay-600">
           <div className="flex items-center gap-4 bg-[#111111] border border-[#1a1a1a] rounded-2xl px-6 py-4 min-w-[200px]">
             <span className="text-[#c8f17c] text-5xl font-bold tracking-[-0.02em]">
-              180
+              120
             </span>
             <span className="text-[#a1a1aa] text-sm text-left leading-tight">
               Day guaranteed
